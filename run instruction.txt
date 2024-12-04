@@ -1,0 +1,7 @@
+1. Open CMD terminal.
+2. Run [partition charactar:] for example if you are saving the project on partition K, type " k: "
+3. Run cd [path_to_the_project] .. like cd "K:\G\UpWork\Land Parcel Filtering\Project"
+4. Run "proj_env\Scripts\activate"
+5. The current like should be like [ (proj_env) K:\G\UpWork\Land Parcel Filtering\Project> ]
+6. Run " python Code.py "
+now you should see a welcome message, the script will start reading the datasets/shapefiles, and then follow the processes.
